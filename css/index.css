@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body {
+  background-color: snow;
+}
+
 .header_all {
   width: 100%;
   position: relative;
@@ -51,16 +55,17 @@
 
 .top_inner h1 {
   font-size: 100px;
-  color: #0dcc73;
+  color: yellow;
 }
 
 .top_inner h2 {
   font-size: 80px;
+  color: red;
 }
 
 .top_inner p {
   font-size: 40px;
-  color: rgb(187, 76, 42);
+  color: fuchsia;
   position: relative;
   top: -50;
 }
